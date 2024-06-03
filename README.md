@@ -1,12 +1,22 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe React Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This project is a React implementation of the classic Tic-Tac-Toe game, built as a learning experience using the React Dev website tutorials. It offers a basic playable Tic-Tac-Toe experience and serves as a foundation for further exploration of React concepts.
 
-### `npm start`
+## Features
+
+- **Basic Gameplay:** Players can take turns marking squares on a 3x3 grid.
+- **Win Detection:** The game checks for winning conditions after each turn.
+- **Reset Functionality:** Players can restart the game at any time. 
+
+## Learning Resources
+
+- **React Dev Tutorials:** https://react.dev/learn/tutorial-tic-tac-toe
+
+<!-- ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -67,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
